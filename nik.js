@@ -55,7 +55,7 @@ vant.showNotify({
 }
 
      function tele1() {
-    location.href = "https://t.me/QO333";
+    location.href = "https://t.me/mrwanx";
 vant.showNotify({
     type: 'success',
     message: '5ASK 7AJA B3TLI'
@@ -367,4 +367,10 @@ function aim180() {
         h5gg.searchNumber('1053273620','I32','0x100000000', '0x160000000');
         h5gg.editAll('-2000', 'I32'); 
         h5gg.clearResults();
-    }
+    } 
+function Speed() { 
+                h5gg.clearResults(); 
+                h5gg.searchNumber('4397530849764387586', 'I64', '0x100000000', '0x160000000'); 
+                h5gg.editAll('4397530849758414900', 'I64'); 
+            } 
+        }
